@@ -1,0 +1,6 @@
+{
+  "name": "Oakridge International School Portal",
+  "description": "Comprehensive school portal featuring campus area map, classroom benches & infrastructure, courses & subjects, faculty directory, fee calculator, and online admission application system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
